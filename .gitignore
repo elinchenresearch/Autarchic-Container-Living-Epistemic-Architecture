@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+*~
+
+# Obsidian metadata
+.obsidian/
+workspace.json
+
+# Logs or scratch files
+*.log
+drafts/
