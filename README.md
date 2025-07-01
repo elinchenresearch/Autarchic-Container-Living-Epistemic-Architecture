@@ -1,47 +1,42 @@
-# Epistemic Autarchy
+# Elin Chen — Systems for Epistemic Integrity and Structural Governance
 
-**Elin's Core Cognitive Architecture**
+This repository contains original research frameworks, system models, and applied modules developed to support new directions in AI ethics, cultural cognition, and structural logic.
 
-This repository contains the full structural logic system designed to operate without external epistemic dependency. It is a modular, sovereign cognitive framework built for routing signal, processing tension, and enabling non-fused structural clarity in high-complexity environments.
+This work is not a discipline—it is a structural reconstruction toolkit.  
+It is designed for those working at the boundary of epistemic failure, institutional drift, and cultural misrecognition.
 
-> It is not a theory.  
-> It is not a belief system.  
-> It is not written to persuade.  
-> It is an operating system.
+## 🧭 What's in this Repository
 
----
+### 00_Framework-Overview
+The foundational architecture of this system:
+- **Structural Karma System** – layered responsibility beyond causal blame
+- **Epistemic Autarchy Stack** – sovereign cognition, signal gating, tension routing
+- **Signal Gating System** – non-emotional boundary logic
+- **Tension Routing System** – dynamic decision processing through internal logic
 
-## 🔷 System Overview
+### 01_Core-Articles
+Key research outputs that anchor the system in cultural, ethical, and technological contexts.
 
-This repository contains:
+### 02_Application Modules
+Select designs applying structural logic to domains like AI architecture, emotional combinatorics, and post-crisis power realignment.
 
-- `Epistemic-Autarchy/` – The 6-layer architecture (self-engine to feedback)
-- `Logic-Modules/` – Tools like signal gating, structural karma, and tension routing
-- `Field-Application/` – Case frameworks 
-- `Meta-Systems/` – Protection logic: deflection registers, self-positioning maps
+### 03_Reader Tools
+Practical tools developed for others to engage with or test this system in live settings.
 
-Each module is self-contained but structurally linked.
+### 04_Public Access Docs
+Simple entry points and pitch artifacts for institutions, collaborators, and funders.
 
----
+## ⚠️ Reading Protocols
 
-## 🧭 How to Read This Repository
+This system is:
+- **Non-linear** — Designed as a logic network, not a curriculum
+- **Non-political** — Not moral critique, but signal clarification
+- **Not derivative** — Avoid projecting familiar lineage (e.g. Foucault, Confucius, Heidegger)
 
-1. Start from `SYSTEM_OVERVIEW.md` (coming soon)
-2. Follow links by level of fidelity — don't skim; this system is recursive.
-3. If you're unfamiliar with modular cognition or non-fusion logic, begin with Substack (forthcoming).
+## 🛡️ Use & Contact
 
----
+This work is open to serious readers, collaborators, and institutions committed to structural clarity.
 
-## 🚫 Misuse Warning
+Please do not adapt without signal alignment.  
+Contact: [elin.chen.research@proton.me]
 
-- This is not for motivational repackaging or belief amplification.
-- Do not extract fragments out of context.
-- If you use this work, retain its structure and logic boundary.
-
----
-
-## License
-
-[MIT License](LICENSE)
-
----
