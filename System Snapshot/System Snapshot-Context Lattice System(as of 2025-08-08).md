@@ -1,4 +1,4 @@
-**Context Lattice System**
+# System Snapshot-Context Lattice System-(as of 2025-08-14)
 
 ## Overview
 A structural framework for operating across multiple epistemic contexts without unwanted merging or dilution.  
@@ -51,4 +51,4 @@ Originally termed "Parallel-Context Operation," renamed to **Context Lattice** t
 - Interfaces with:
   - **Epistemic Autarchy** — Core self-protection and clarity engine.
   - **Signal Gating** — Filters signals before context entry.
-  - **Karma System** — Tracks systemic consequences across contexts.
+  - **Structural Karma** — Tracks systemic consequences across contexts.
