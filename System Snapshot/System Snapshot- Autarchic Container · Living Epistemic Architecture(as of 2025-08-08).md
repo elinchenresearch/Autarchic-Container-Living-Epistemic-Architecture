@@ -1,4 +1,4 @@
-# Current System Snapshot (as of 2025-08-08)
+# System Snapshot (as of 2025-08-08)
 
 ## Name
 Autarchic Container · Living Epistemic Architecture
