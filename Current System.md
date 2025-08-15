@@ -1,58 +1,65 @@
-# Context Lattice System · 语境晶格系统 (as of 16 Aug 2025)
+# Context Lattice System (CLS)
 
-## Overview 概述
-The **Context Lattice System** is a structural framework for organizing and operating across multiple contexts without merging or diluting them.  
-**语境晶格系统**是一套在多重语境间运作的结构框架，用于保持语境之间的独立性与纯度，防止混合与稀释。
+## Overview
+The **Context Lattice System (CLS)** is a formal discipline for mapping, operating, and innovating across multiple contexts without merging or diluting their internal logic. It is designed to handle cultural, epistemic, disciplinary, and situational contexts as discrete yet interlinked lattices, allowing precise navigation and recombination without structural distortion.
 
-It is designed as an **operating system for context-aware reasoning** — enabling rule-based isolation, selective transfer, and precision mapping between different knowledge spaces.  
-它被设计为一套**面向语境感知推理的操作系统**——支持基于规则的隔离、选择性传递以及不同知识空间之间的精准映射。
+Unlike typical cross-cultural or interdisciplinary approaches, CLS maintains *context integrity* while enabling structured interaction between them. This system applies to research, governance, AI design, translation, and any domain where multiple logic systems coexist.
 
 ---
 
-## Core Contributions 核心贡献
-### Irreplaceable by Others 无可替代部分
-- **Foundational Architecture 基础架构**  
-  Defining the lattice logic, node structure, and connection rules.  
-  定义晶格逻辑、节点结构与连接规则。
-- **Isolation & Transfer Protocols 隔离与传递协议**  
-  Rules for when and how to keep contexts separate vs. when to enable cross-context transfer.  
-  关于何时保持语境独立、何时启用跨语境传递的规则。
-- **Meta-positioning Logic 元定位逻辑**  
-  Structural principles for holding multiple contexts without fusion.  
-  在不融合的前提下持有多重语境的结构原则。
+## Core Principles
 
-### Open for Expansion 可扩展部分
-- **Domain-specific lattices 领域专用晶格**  
-  e.g., neuroscience-context lattice, legal-context lattice, AI-training-context lattice.  
-  如：神经科学语境晶格、法律语境晶格、AI训练语境晶格。
-- **Applied Tools 应用工具**  
-  Interfaces, training modules, cross-domain translation layers.  
-  界面、训练模块、跨领域翻译层。
-- **Case Libraries 案例库**  
-  Documented real-world uses of the Context Lattice System.  
-  语境晶格系统的真实应用案例。
+1. **Context Integrity** – Each context’s logic remains intact; no forced synthesis.
+2. **Rule-based Bridging** – Context interaction follows explicit, testable rules.
+3. **Multi-scale Scope** – Contexts may be large (civilizational) or small (organizational subculture).
+4. **Structural Fidelity** – Focus on preserving epistemic architecture during transfer.
+5. **Dynamic Operation** – Entry points adapt to real-time flows of thought and signals.
 
 ---
 
-## System Properties 系统特性
-- **Parallel Operation 并行运行** — Maintain multiple contexts in active memory without contamination.  
-  在活跃记忆中同时保持多个语境而不相互污染。
-- **Rule-Bound Mixing 有规则的混合** — Contexts can be selectively connected based on defined structural rules.  
-  语境可按定义的结构规则选择性连接。
-- **Scalable Architecture 可扩展架构** — Base structure supports infinite context additions.  
-  基础结构可支持无限语境扩展。
+## System Components
+
+- **Inside Layer** – Fully internal operation of contexts without external influence.
+- **Partial Layer** – Selective interaction with external contexts under controlled rules.
+- **Outside Layer** – Public-facing or collaborative operation while protecting internal context integrity.
 
 ---
 
-## Research Scope 研究范围
-This framework applies across liberal arts and sciences, bridging strategic cultural contexts, technical domains, and cognitive systems.  
-该框架横跨人文与科学领域，衔接战略文化语境、技术领域与认知系统。
+## Relation to Adjacent Subjects
+
+| Adjacent Field | How It Relates to CLS | Where CLS Does Better |
+|---|---|---|
+| **Comparative Philosophy** | Compares philosophical traditions (e.g., Chinese vs. Western). | CLS protects *structural logic* intact instead of forcing conceptual equivalence, avoiding flattening subtle context rules. |
+| **Translation Studies** | Studies how meaning is moved across languages. | CLS treats translation as *structural transfer*, not just linguistic substitution, keeping embedded cultural/epistemic logic unaltered. |
+| **Cross-Cultural Psychology** | Analyzes how cultural background shapes cognition. | CLS maps multi-context operation at the *idea-flow* and *rule* level, not just outcome behaviors or measured traits. |
+| **Area Studies (e.g., China Studies)** | Provides deep contextual knowledge of specific regions. | CLS isolates cultural logic from contemporary ideology, enabling clean recombination with other contexts without political bias. |
+| **Cybernetics / Systems Theory** | Models interactions and feedback between systems. | CLS embeds cultural/epistemic rules directly in system architecture, making models sensitive to hidden context constraints. |
+| **STS (Science & Technology Studies)** | Explores how science/tech interact with society. | CLS integrates *cross-context epistemic fidelity* into tech design, enabling tools that work in multiple cultural logic systems without distortion. |
+| **Epistemology** | Studies the nature and scope of knowledge. | CLS provides operational tools to *apply* epistemic boundaries in real-world interactions, rather than only analyzing them philosophically. |
+| **Cognitive Science** | Investigates how humans process information and form concepts. | CLS offers a structural model for *deliberate multi-context thinking*, not just measurement of cognitive processes. |
 
 ---
 
-## Positioning in Discipline 学科定位
-- **Discipline Level 学科级** — Functions as an independent research discipline, not just a personal tool.  
-  作为独立研究学科运作，而非个人工具。
-- **Collaboration-Friendly 适合协作** — Core logic remains fixed; expansion is open to multiple fields and contributors.  
-  核心逻辑固定，扩展面向多领域、多贡献者。
+## Why It Is a Discipline
+The CLS provides a formal operational framework, not just a research topic. It defines:
+- **Objects of Study**: Context logic structures and their interaction rules.
+- **Methods**: Lattice mapping, structural fidelity testing, entry-point analysis.
+- **Applications**: Cross-cultural governance, AI design, translation, interdisciplinary collaboration.
+
+---
+
+ ## How It Will Be Shared on GitHub
+
+The GitHub repository will act as **the discipline’s primary open reference hub**:
+
+- **`/core/`** — Foundational definitions, principles, diagrams, bilingual reference sheets.  
+- **`/methods/`** — Step-by-step operational methods for context mapping, bridging, and testing.  
+- **`/applications/`** — Case studies in cultural exchange, interdisciplinary research, and governance.  
+- **`/adjacent-links/`** — Comparative analysis with other knowledge systems.  
+- **`/development-log/`** — Timeline of conceptual evolution, versioning notes, and research milestones.  
+
+The **Autarchic-Container-Living-Epistemic-Architecture** will be documented as the **origin environment** — showing how the CLS emerged and how it connects to your other frameworks (Structural Karma, Parallel-Context Operation, etc.).
+
+---
+
 
