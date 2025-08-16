@@ -3,7 +3,7 @@
 This index provides a structured overview of the **Context Lattice System (CLS)** in book-style form.  
 Each section can be expanded into standalone markdown files inside the repository.
 
-**Check [System Overview](00-system_overview.md) first**
+**Check [System Overview](00_System Overview.md) first**
 
 ---
 
