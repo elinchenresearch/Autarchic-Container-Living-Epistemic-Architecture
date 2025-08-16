@@ -3,6 +3,8 @@
 This index provides a structured overview of the **Context Lattice System (CLS)** in book-style form.  
 Each section can be expanded into standalone markdown files inside the repository.
 
+**Check [System Overview](00-system_overview.md) first**
+
 ---
 
 ## Part I — Foundations
@@ -91,3 +93,5 @@ Each section can be expanded into standalone markdown files inside the repositor
     - How CLS can grow into a research field  
     - Open-source development on GitHub  
     - Building a collaborative lattice  
+
+---
