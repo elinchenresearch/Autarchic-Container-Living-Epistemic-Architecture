@@ -48,15 +48,8 @@ The CLS provides a formal operational framework, not just a research topic. It d
 
 ---
 
- ## How It Will Be Shared on GitHub
-
-The GitHub repository will act as **the discipline’s primary open reference hub**:
-
-- **`/core/`** — Foundational definitions, principles, diagrams, bilingual reference sheets.  
-- **`/methods/`** — Step-by-step operational methods for context mapping, bridging, and testing.  
-- **`/applications/`** — Case studies in cultural exchange, interdisciplinary research, and governance.  
-- **`/adjacent-links/`** — Comparative analysis with other knowledge systems.  
-- **`/development-log/`** — Timeline of conceptual evolution, versioning notes, and research milestones.  
+ ## Check [{Quick Index.md} ](url)for the list of the 
+ 
 
 The **Autarchic-Container-Living-Epistemic-Architecture** will be documented as the **origin environment** — showing how the CLS emerged and how it connects to your other frameworks (Structural Karma, Parallel-Context Operation, etc.).
 
