@@ -48,7 +48,7 @@ The CLS provides a formal operational framework, not just a research topic. It d
 
 ---
 
- ## Check [{Quick Index.md} ](url)for the list of the 
+ ## Check [Quick Index.md]
  
 
 The **Autarchic-Container-Living-Epistemic-Architecture** will be documented as the **origin environment** — showing how the CLS emerged and how it connects to your other frameworks (Structural Karma, Parallel-Context Operation, etc.).
