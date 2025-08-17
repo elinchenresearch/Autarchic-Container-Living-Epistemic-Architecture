@@ -6,7 +6,7 @@ A discipline for preserving and operating across multiple epistemic contexts wit
 - Enables rule-based bridging across systems.  
 - Opens collaboration without assimilation.  
 
-📘 [Overview](00-overview.md) | 📑 [System Index](00-system-index.md)
+📘 [Overview](00-overview.md) | 📑 [System Index](00-system20%index.md)
 
 ---
 
