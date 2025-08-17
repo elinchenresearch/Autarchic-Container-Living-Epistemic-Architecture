@@ -15,9 +15,10 @@ Context is not “background decoration.” It is the *scaffolding that makes re
 - **Scientific blind spots**  
   Models tested in one environment (e.g. WEIRD psychology, European assumptions of time and space) fail when applied elsewhere, yet are assumed universal.  
 
-- **Political capture**  
-  - CCP epistemic strategy: *Chinese context = the only authentic one*, erasing heterogeneity.  
-  - Western universalism: flattens differences under the guise of humanism.  
+- **Contextual hegemony**  
+  When one framework claims to be the **only authentic context**, heterogeneity is erased.  
+  - In Chinese settings, contextual hegemony takes the form of political/cultural capture of the "Chinese way."  
+  - In Western settings, it often appears as universalist claims of humanism or rationality.  
 
 - **Cognitive dissonance**  
   For individuals straddling multiple contexts, switching reveals radically different reasoning logics.  
@@ -44,7 +45,17 @@ This discipline doesn’t come from theory alone — it comes from survival.
 
 ---
 
-## 5. Why This Matters for a Discipline
+## 5. Origin of CLS
+The initial development of the Context Lattice System grew from the lived experience of moving between **Chinese** and **Western** epistemic traditions.  
+- The Chinese side emphasizes process, embeddedness, and relational reasoning.  
+- The Western side emphasizes categorization, abstraction, and universality.  
+
+Navigating between them revealed that **context itself had to be preserved as a unit of reasoning**.  
+This insight generalized: the need for **context integrity** exists at all scales — cultural, disciplinary, institutional, and cognitive.  
+
+---
+
+## 6. Why This Matters for a Discipline
 Without treating context as central:
 - Philosophy produces false universals.  
 - Science misapplies its models.  
