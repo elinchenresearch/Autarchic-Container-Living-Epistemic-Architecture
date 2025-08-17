@@ -1,4 +1,4 @@
-# Index — Context Lattice System
+# System Index — Context Lattice System
 
 This index provides a structured overview of the **Context Lattice System (CLS)** in book-style form.  
 Each section can be expanded into standalone markdown files inside the repository.
