@@ -4,7 +4,7 @@ The **Context Lattice System (CLS)** is a discipline designed to preserve and op
 
 Most cross-cultural or interdisciplinary methods either blend contexts into a “shared” framework (flattening unique structures) or isolate them completely (losing the possibility of exchange). CLS introduces a third path: **contexts as lattices** — autonomous but connectable structures that can be mapped, tested, and bridged according to explicit rules.  
 
-[👉 Quick Index](00_Quick%20Index.md)
+[👉 System Index](00_System%20Index.md)
 
 ---
 
