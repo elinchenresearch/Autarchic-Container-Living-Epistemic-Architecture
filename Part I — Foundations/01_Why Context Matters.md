@@ -1,4 +1,4 @@
-# Why Context Matters
+# 01_Why Context Matters
 
 ## 1. Context as a Hidden Architecture
 Every epistemic act — reasoning, perception, decision-making — rests on an **invisible architecture of context**.  
