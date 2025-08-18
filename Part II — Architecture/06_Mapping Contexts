@@ -1,0 +1,88 @@
+# 06_Mapping Contexts (Draft / In Progress)
+
+⚠️ This document is a working draft. It describes how **contexts are aligned and compared** inside the Context Lattice System (CLS).  
+Details are subject to refinement as the system matures.
+
+---
+
+## 1. Why Mapping Matters
+- Sealed contexts cannot be assumed to “naturally” align.  
+- To work across them, we need explicit **maps** that show:  
+  - Where logics overlap.  
+  - Where they diverge.  
+  - Where they cannot be reconciled.  
+- Mapping ensures that interaction happens with **integrity**, not collapse.
+
+---
+
+## 2. Types of Mapping
+So far, several mapping approaches have been observed:
+
+- **Direct Correspondence**  
+  When two contexts share structurally similar rules or validation criteria.  
+  *Example*: “conditional binding” in Chinese reasoning ↔ “if–then logic” in Western reasoning.
+
+- **Analogical Mapping**  
+  When structures are not identical but relationally comparable.  
+  *Example*: karma logic (structural balance of actions) ↔ systemic feedback in scientific models.
+
+- **Declared Non-Equivalence**  
+  When no safe mapping exists. Instead of forcing alignment, the system explicitly records “no map.”  
+  *Example*: Western individualist “self” vs. Chinese relational “self.”  
+
+---
+
+## 3. Tools for Mapping
+- **Context Density Check**  
+  High-density contexts require more careful mapping; low-density ones are easier to align.  
+
+- **Gates vs. Bridges**  
+  - Gates let signals through without mapping (simple referencing).  
+  - Bridges require a mapping table (structural correspondence).  
+
+- **Upstream / Downstream Test**  
+  - Test whether the mapping holds under **framework-level rules** (upstream).  
+  - Test whether it works in **tools/applications** (downstream).  
+
+---
+
+## 4. Scales of Mapping
+- **Macro Mapping**  
+  *Between large cultural logics* (e.g., Chinese ↔ Western).  
+
+- **Meso Mapping**  
+  *Between disciplines or institutions* (e.g., physics ↔ anthropology).  
+
+- **Micro Mapping**  
+  *Within a single person or setting* (e.g., analytic mode ↔ holistic mode).  
+
+Each scale requires different density management and different tolerance for non-equivalence.  
+
+---
+
+## 5. Failure Modes in Mapping
+- **Over-Translation**  
+  Forcing equivalence where there is none.  
+- **Under-Mapping**  
+  Treating two logics as unrelated when a partial bridge is possible.  
+- **Silent Collapse**  
+  Importing one context’s rules without declaring it.  
+
+CLS uses **declared non-equivalence** to avoid these failures.  
+
+---
+
+## 6. Why Mapping Is Not Translation
+- Translation assumes a shared background or universal grammar.  
+- CLS assumes **no universal container**.  
+- Mapping instead means making **explicit structural correspondences**, including where they fail.  
+
+---
+
+📌 **Summary**  
+Mapping Contexts defines how nodes in the lattice are related:  
+- Through direct correspondence, analogy, or declared non-equivalence.  
+- With tools like density checks, gates/bridges, and upstream/downstream testing.  
+- Across macro, meso, and micro scales.  
+
+This approach ensures contexts interact **without collapse**, preserving their structural integrity.
