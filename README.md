@@ -1,6 +1,6 @@
 # Context Lattice System
 
-A discipline for preserving and operating across multiple epistemic contexts without collapse.  
+“A system for understanding and creating knowledge through recontextualized connections.”
 
 - Protects context integrity (no contamination).  
 - Enables rule-based bridging across systems.  
@@ -15,15 +15,13 @@ A discipline for preserving and operating across multiple epistemic contexts wit
 ⚠️ This repository represents an **emerging discipline in development**.  
 The Context Lattice System is not yet fully formalized — what you will find here are structured notes, frameworks, and prototypes of methods.  
 
-The ambition is large: to establish **"context integrity"** as a new epistemic science.  
+The ambition is large: to establish **"context integrity"** as framework for epistemic integrity across contexts.  
 The materials here are building blocks toward that goal, not a finished body of work.  
 
-💡 Feedback, critique, and collaboration are welcome at this stage.  
-If you see ways to test, extend, or refine these ideas, please engage — this project is designed to grow through dialogue.  
 
 ## Disclaimer #2
 
-The **Context Lattice System (CLS)** is written in English for accessibility.  
+⚠️ The **Context Lattice System (CLS)** is written in English for accessibility.  
 However, several important clarifications apply:
 
 1. **Language as Carrier, Not Essence**  
