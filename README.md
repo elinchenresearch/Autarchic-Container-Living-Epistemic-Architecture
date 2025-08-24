@@ -10,8 +10,8 @@ A discipline for preserving and operating across multiple epistemic contexts wit
 
 ---
 
-## Disclaimer
-
+## Disclaimer #1
+ 
 ⚠️ This repository represents an **emerging discipline in development**.  
 The Context Lattice System is not yet fully formalized — what you will find here are structured notes, frameworks, and prototypes of methods.  
 
@@ -20,6 +20,31 @@ The materials here are building blocks toward that goal, not a finished body of 
 
 💡 Feedback, critique, and collaboration are welcome at this stage.  
 If you see ways to test, extend, or refine these ideas, please engage — this project is designed to grow through dialogue.  
+
+## Disclaimer #2
+
+The **Context Lattice System (CLS)** is written in English for accessibility.  
+However, several important clarifications apply:
+
+1. **Language as Carrier, Not Essence**  
+   English terms are used as approximate carriers of meaning.  
+   They do not capture the full density of the underlying structures.
+
+2. **Cultural Mismatch**  
+   Words such as *philosophy*, *ethics*, or *containment* carry Western intellectual assumptions.  
+   In this work, their usage is strategic and partial, not identical to their traditional meaning.
+
+3. **Translation Compromise**  
+   Some concepts are rooted in Chinese or structural logic beyond language.  
+   English translations are compromises made for clarity, not definitive expressions.
+
+4. **Parallel-Context Positioning**  
+   This project intentionally maintains separation between cultural contexts (Chinese vs Western).  
+   Readers should avoid merging them into one interpretive frame.
+
+5. **Interpretation Caution**  
+   The system should not be judged by existing academic categories alone.  
+   It is a structural framework that may extend beyond conventional disciplinary boundaries.
 
 ---
 
